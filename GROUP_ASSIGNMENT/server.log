@@ -1,0 +1,21 @@
+[2026-08-05 18:16:44] Server started on port 5000
+[2026-08-05 18:16:48] Client connected
+[2026-08-05 18:16:51] Client connected
+[2026-08-05 18:16:54] Message: hi
+[2026-08-05 18:17:05] Client connected
+[2026-08-05 18:17:18] Client connected
+[2026-08-05 18:20:27] Server started on port 5000
+[2026-08-05 18:20:50] Server error: Address already in use: bind
+[2026-08-05 18:53:30] Server started on port 5000
+[2026-08-05 18:53:34] Client connected
+[2026-08-05 18:53:35] Client connected
+[2026-08-05 18:53:36] Client connected
+[2026-08-05 18:53:57] Message: hello
+[2026-08-05 18:54:12] Message: hii
+[2026-08-05 18:54:28] Message: good morning
+[2026-08-05 18:55:11] Client disconnected
+[2026-08-05 18:55:11] Client removed
+[2026-08-05 18:55:16] Client disconnected
+[2026-08-05 18:55:16] Client removed
+[2026-08-05 18:55:24] Client disconnected
+[2026-08-05 18:55:24] Client removed
